@@ -37,14 +37,14 @@
 AI·SW 캡스톤디자인, AIoT, [자료구조, 알고리즘, 운영체제, 데이터베이스 등 이수한 과목을 추가합니다.]
 
 ---
-
 ## Technical Skills
 
 | 구분 | 기술 |
-| Languages | JavaScript, TypeScript, Python | 
-| Frontend | HTML5, CSS3, React | 
-| Embedded / OS | Raspberry Pi, Linux (Ubuntu, WSL2, VirtualBox) | 
-| Tools | Git, GitHub, Vercel, [Figma 등] | 
+|---|---|
+| Languages | JavaScript, TypeScript, Python |
+| Frontend | HTML5, CSS3, React |
+| Embedded / OS | Raspberry Pi, Linux (Ubuntu, WSL2, VirtualBox) |
+| Tools | Git, GitHub, Vercel, Figma |
 
 
 
