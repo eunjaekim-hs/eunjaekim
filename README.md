@@ -41,7 +41,6 @@ AI·SW 캡스톤디자인, AIoT, [자료구조, 알고리즘, 운영체제, 데�
 ## Technical Skills
 
 | 구분 | 기술 |
-|---|---|---|
 | Languages | JavaScript, TypeScript, Python | 
 | Frontend | HTML5, CSS3, React | 
 | Embedded / OS | Raspberry Pi, Linux (Ubuntu, WSL2, VirtualBox) | 
